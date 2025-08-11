@@ -11,7 +11,7 @@ This repository contains all the lab assignments for **CSE423: Computer Graphics
 | **Lab 2**          | 2D diamond catching game with increasing difficulty and score tracking. |
 | **Lab 3**          | 3D shooting game with player/enemy movement, bullet firing, camera modes, and cheat features. |
 
-## 👩‍💻 Author
+
 
 - **Name**: Marzia Khanam  
 - **Student ID**: 21201571  
